@@ -11,7 +11,7 @@ submit:
 
 - VUE_APP_API_KEY
 
-  API key credentials to provide access to the API. You can contact the administrator to get the key.
+  API key credentials to provide access to the APIs. You can contact the administrator to get the key.
 
 ## Project setup
 Clone the project from GitHub repository:
